@@ -9,6 +9,7 @@ environment:
   sdk: ">=3.2.3 <4.0.0"
 
 dependencies:
+  bloc_test: ^9.1.5
   cupertino_icons: ^1.0.2
   equatable: 2.0.3
   flutter:
@@ -16,6 +17,7 @@ dependencies:
   flutter_bloc: 8.0.1
   flutter_dotenv: 5.0.2
   http: 0.13.4
+  mocktail: ^1.0.2
   recase: 4.0.0
 
 dev_dependencies:
